@@ -29,6 +29,7 @@ This project is a real-time inventory management system for e-commerce businesse
 
 The system also includes a landing page that provides an overview of the app's features and allows users to sign up for an account. Once logged in, users can access the inventory management dashboard, where they can view their current inventory levels, add new products, and update stock levels. The system also includes a reporting feature that allows users to generate detailed reports on their inventory and sales. Additionally, the system can also be integrated with other e-commerce platforms, such as Shopify, Magento, and WooCommerce, to automatically synchronize inventory levels and sales data.
 
+The system is built using Atomic Design principles, which breaks down the design process into smaller, reusable components. The components are managed and shared using Bit, allowing for easy collaboration and reusability across different projects and environments.
 ## Known Issues
 - Limited support for older browsers
 - Some features may not work properly on mobile devices
